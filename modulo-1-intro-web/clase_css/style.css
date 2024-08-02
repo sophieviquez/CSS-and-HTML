@@ -1,0 +1,40 @@
+h1 {
+  color: red;
+  background-color: blue;
+  margin: 10px;
+  border: 10px red solid;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: justify;
+}
+
+p {
+  /* border-radius: 999px; */
+  background-color: aquamarine;
+  padding: 20px;
+  margin: 20px;
+  /* height: 180px; */
+  /* width: 180px; */
+  color: red;
+  /* box-sizing: border-box; */
+}
+
+button {
+  margin: 0 auto;
+  display: block;
+}
+span {
+  background-color: rosybrown;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 0 10px;
+  /* display: inline-block; */
+}
+
+.resaltado {
+  background-color: blueviolet;
+  color: inherit;
+  font-weight: bold;
+  padding: 0 10px;
+  /* display: inline-block; */
+}
